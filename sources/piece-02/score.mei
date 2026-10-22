@@ -225,12 +225,15 @@
                            </staffGrp>
                            <staffDef xml:id="i15-1" n="22" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                               <label xml:id="label-40">Viola</label>
+                              <labelAbbr xml:id="labelAbbr-16">Vla</labelAbbr>
                            </staffDef>
                            <staffDef xml:id="i16-1" n="23" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                               <label xml:id="label-41">Violoncello</label>
+                              <labelAbbr xml:id="labelAbbr-17">Vc</labelAbbr>
                            </staffDef>
                            <staffDef xml:id="i25-1" n="24" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                               <label xml:id="label-42">Kontrabass</label>
+                              <labelAbbr xml:id="labelAbbr-18">Kb</labelAbbr>
                            </staffDef>
                            <staffDef xml:id="i1-1" n="25" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                               <label xml:id="label-43">Flöte I</label>
