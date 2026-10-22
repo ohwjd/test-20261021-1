@@ -116,14 +116,6 @@
 			"name": "Horn in F",
 			"staves": [
 				{
-					"id": "i22-2",
-					"parts": []
-				},
-				{
-					"id": "i22-4",
-					"parts": []
-				},
-				{
 					"id": "i22-5",
 					"parts": [
 						4,
@@ -171,10 +163,6 @@
 			"id": "i23",
 			"name": "Trompete in F",
 			"staves": [
-				{
-					"id": "i23-1",
-					"parts": []
-				},
 				{
 					"id": "i23-2",
 					"parts": [
@@ -1102,21 +1090,21 @@
 					"uly": 2176,
 					"lrx": 2341,
 					"lry": 2241,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 263,
 					"uly": 2280,
 					"lrx": 2332,
 					"lry": 2347,
-					"staff": "i22-4"
+					"staff": "i22-6"
 				},
 				{
 					"ulx": 261,
 					"uly": 2407,
 					"lrx": 2341,
 					"lry": 2471,
-					"staff": "i23-1"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 270,
