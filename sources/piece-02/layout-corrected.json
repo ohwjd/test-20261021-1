@@ -314,17 +314,17 @@
 			"parts": []
 		},
 		{
-			"id": "i16",
-			"name": "Violoncello",
+			"id": "i31",
+			"name": "Violoncello und Kontrabass",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
 			"staves": [
 				{
-					"id": "i16-1",
+					"id": "i31-1",
 					"parts": []
 				}
-			],
-			"abbr": "Vc",
-			"grand": false,
-			"parts": []
+			]
 		},
 		{
 			"id": "i25",
@@ -433,13 +433,26 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i16",
+			"name": "Violoncello",
+			"staves": [
+				{
+					"id": "i16-1",
+					"parts": []
+				}
+			],
+			"abbr": "Vc",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i14",
+			"last": "i16",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
@@ -447,7 +460,7 @@
 		{
 			"id": "g2",
 			"first": "i27",
-			"last": "i14",
+			"last": "i16",
 			"symbol": "bracket",
 			"label": "",
 			"barThru": false
@@ -619,7 +632,7 @@
 					"uly": 2969,
 					"lrx": 2338,
 					"lry": 3047,
-					"staff": "i16-1"
+					"staff": "i31-1"
 				},
 				{
 					"ulx": 493,
