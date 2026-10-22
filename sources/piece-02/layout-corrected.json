@@ -273,30 +273,32 @@
 			"parts": []
 		},
 		{
-			"id": "i13",
-			"name": "Violine I",
-			"staves": [
+			"id": "i30",
+			"name": "Violine",
+			"abbr": "Vl I",
+			"grand": false,
+			"parts": [
 				{
-					"id": "i13-1",
-					"parts": []
+					"name": "I"
+				},
+				{
+					"name": "II"
 				}
 			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i14",
-			"name": "Violine II",
 			"staves": [
 				{
-					"id": "i14-1",
-					"parts": []
+					"id": "i30-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i30-3",
+					"parts": [
+						1
+					]
 				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
+			]
 		},
 		{
 			"id": "i15",
@@ -405,13 +407,39 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i13",
+			"name": "Violine I",
+			"staves": [
+				{
+					"id": "i13-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i14",
+			"name": "Violine II",
+			"staves": [
+				{
+					"id": "i14-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i21",
+			"last": "i14",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
@@ -419,7 +447,7 @@
 		{
 			"id": "g2",
 			"first": "i27",
-			"last": "i21",
+			"last": "i14",
 			"symbol": "bracket",
 			"label": "",
 			"barThru": false
@@ -570,14 +598,14 @@
 					"uly": 2510,
 					"lrx": 2335,
 					"lry": 2575,
-					"staff": "i13-1"
+					"staff": "i30-2"
 				},
 				{
 					"ulx": 476,
 					"uly": 2641,
 					"lrx": 2340,
 					"lry": 2715,
-					"staff": "i14-1"
+					"staff": "i30-3"
 				},
 				{
 					"ulx": 477,
