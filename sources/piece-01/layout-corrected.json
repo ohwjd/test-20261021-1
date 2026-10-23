@@ -33,7 +33,7 @@
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": false,
+	"instrumentsFixed": true,
 	"pages": [
 		{
 			"image": "../img/01.jpg",
@@ -353,73 +353,85 @@
 					"ulx": 214,
 					"uly": 407,
 					"lrx": 2547,
-					"lry": 493
+					"lry": 493,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 207,
 					"uly": 674,
 					"lrx": 2548,
-					"lry": 762
+					"lry": 762,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 212,
 					"uly": 897,
 					"lrx": 2547,
-					"lry": 984
+					"lry": 984,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 209,
 					"uly": 1174,
 					"lrx": 2548,
-					"lry": 1261
+					"lry": 1261,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 206,
 					"uly": 1469,
 					"lrx": 2546,
-					"lry": 1558
+					"lry": 1558,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 210,
 					"uly": 1698,
 					"lrx": 2545,
-					"lry": 1784
+					"lry": 1784,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 212,
 					"uly": 1960,
 					"lrx": 2547,
-					"lry": 2046
+					"lry": 2046,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 214,
 					"uly": 2231,
 					"lrx": 2548,
-					"lry": 2319
+					"lry": 2319,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 217,
 					"uly": 2493,
 					"lrx": 2546,
-					"lry": 2578
+					"lry": 2578,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 218,
 					"uly": 2753,
 					"lrx": 2547,
-					"lry": 2841
+					"lry": 2841,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 212,
 					"uly": 3019,
 					"lrx": 2545,
-					"lry": 3105
+					"lry": 3105,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 217,
 					"uly": 3277,
 					"lrx": 2546,
-					"lry": 3361
+					"lry": 3361,
+					"staff": "i2-2"
 				}
 			],
 			"grandstaves": [
@@ -572,73 +584,85 @@
 					"ulx": 193,
 					"uly": 313,
 					"lrx": 2528,
-					"lry": 404
+					"lry": 404,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 192,
 					"uly": 576,
 					"lrx": 2524,
-					"lry": 663
+					"lry": 663,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 197,
 					"uly": 824,
 					"lrx": 2525,
-					"lry": 911
+					"lry": 911,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 200,
 					"uly": 1089,
 					"lrx": 2527,
-					"lry": 1176
+					"lry": 1176,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 198,
 					"uly": 1351,
 					"lrx": 2524,
-					"lry": 1442
+					"lry": 1442,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 202,
 					"uly": 1610,
 					"lrx": 2524,
-					"lry": 1696
+					"lry": 1696,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 202,
 					"uly": 1892,
 					"lrx": 2524,
-					"lry": 1977
+					"lry": 1977,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 204,
 					"uly": 2152,
 					"lrx": 2521,
-					"lry": 2238
+					"lry": 2238,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 202,
 					"uly": 2401,
 					"lrx": 2524,
-					"lry": 2488
+					"lry": 2488,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 205,
 					"uly": 2677,
 					"lrx": 2529,
-					"lry": 2765
+					"lry": 2765,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 206,
 					"uly": 2940,
 					"lrx": 2526,
-					"lry": 3027
+					"lry": 3027,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 206,
 					"uly": 3179,
 					"lrx": 2524,
-					"lry": 3263
+					"lry": 3263,
+					"staff": "i2-2"
 				}
 			],
 			"grandstaves": [
